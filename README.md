@@ -1,0 +1,1 @@
+# store-lottery-result
