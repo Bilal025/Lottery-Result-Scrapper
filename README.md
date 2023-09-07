@@ -1,4 +1,4 @@
-# Store Lottery Result to MySQL Database
+# Lottery Result Scrapper - Store Lottery Result to MySQL Database
 
 This Java project is designed to scrape lottery results from a DLB Lottery Results website and store them in a MySQL database. It provides a convenient way to automate the collection and storage of lottery results for further analysis or reporting.
 
